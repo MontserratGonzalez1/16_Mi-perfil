@@ -1,0 +1,93 @@
+	/* NAVEGADOR */
+
+#navlist li{
+	list-style: none; 
+	display: inline;
+	padding-left: 160px;
+	font-family: Impact;
+	color: #8A084B;
+	margin: 20px;
+	}
+
+
+.fa-2x {
+  font-size: 2em;
+}
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+
+/* FONDO DEL BANNER */
+.fondo {
+	background-image: url(../images/background.jpg);
+	margin-top: 40px;
+	}
+
+h1{ font-family: Impact; Arial;
+	padding: 0px 350px 30px 350px;
+	color: white;}
+
+h2 { font-family: Impact;
+	 text-align: center;
+	color: #8A084B;
+	padding-bottom: 180px;}
+ 
+ /* LOGO DEL BANNER */
+.logo {
+	padding: 50px 620px 50px 620px;
+}
+
+/* FOTO DE PERFIL */
+
+.foto-perfil{
+	height: 200px;
+	width: 200px;
+	margin-top: 60px;
+	border: solid purple;
+	border-spacing: 3px;
+	padding: 4px;}
+
+h4 { font-family: Impact; Arial;
+	color: #8A084B;
+	margin-top: 60px;
+	margin-bottom: 10px; }
+
+
+
+p { font-family: Arial;
+	color: gray; }
+
+/* GUSTOS */
+
+.gustos { color: #8A084B;
+		  padding-left: 360px;
+		  margin-top: 10px; }
+
+.g-h4 { font-size: 22px;
+		padding-left: 400px; 
+		margin-bottom: 20px;
+		margin-top: 80px;}
+
+
+.chica { 
+	  height: 150px;
+	  width: 150px;
+	  border-radius: 150px;
+	  border: 3px solid purple;
+	  margin-top: 60px;
+	  margin-bottom: 60px;
+	  padding: 2px;
+	 }
+
+		/*FOOTER */
+.pie { background-image: url(../images/tile2.png);
+      height: 300px; }
+
+.contacto { padding-left: 390px; }
+
+.icon { padding-left: 80px;
+		margin-top: 50px;
+		}
